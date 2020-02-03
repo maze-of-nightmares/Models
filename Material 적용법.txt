@@ -1,0 +1,9 @@
+Shader: Autodesk Interactive
+New Material 생성
+#Albedo - Base_Color
+#Metallic- Metalic
+#Roughness - Roughness
+#Normal - Normal
+#Height - Height
+#Occlusion - AO
+
